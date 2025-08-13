@@ -46,7 +46,7 @@ function showResults(userOption) {
             playerScore === 3 ? "Player" : "Computer"
         } has won the game!`;
 
-        resetGameBtn.style.display = "flex";
+        resetGameBtn.style.display = "block";
         optionsContainer.style.display = "none";
     }
 

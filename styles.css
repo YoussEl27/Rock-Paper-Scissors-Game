@@ -66,4 +66,5 @@ body {
     border-color: #feac32;
     border-width: 3px;
     margin: 20px 0;
+    display: none;
 }
